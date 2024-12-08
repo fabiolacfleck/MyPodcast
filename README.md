@@ -1,3 +1,10 @@
+<p align="center">
+<img 
+    src="./cover.webp"
+    width="300"
+/>
+</p>
+
 # MyPodcast - Cibersegurança e Privacidade em um Mundo Conectado
 
 # Projeto Podcast Gerado por I.A.s
