@@ -10,6 +10,10 @@
 # Projeto Podcast Gerado por I.A.s
 
 
+https://github.com/user-attachments/assets/b42ff389-39bf-4f50-962d-d7d6d8302a14
+
+
+
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante um curso na [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
