@@ -30,7 +30,6 @@ Gemini：
 |  Título/Tema  | Dê 10 sugestões de tema para um podcast sobre assuntos atuais referentes a tecnologia. |    
 
 ChatGPT：
-
 <table class="tg"><thead>
   <tr>
     <th class="tg-0pky">Ação</th>
@@ -42,4 +41,10 @@ ChatGPT：
     <td class="tg-0pky">Você é um roteirista de podcast e deve criar um roteiro de um podcast de tecnologia, focado no tema Cibersegurança e Privacidade em um Mundo Conectado tendo como público alvo pessoas leigas no assunto.O formato do roteiro deve ser [INTRODUÇÃO] [ASSUNTO 1] [ASSUNTO 2] [FINALIZAÇÃO]<br>{REGRAS}<br>• no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'Olhar Digital'<br>• no bloco [ASSUNTO 1] substitua por um texto sobre cibersegurança narrando como se fosse apresentadora do canal 'Olhar Digital'<br>• no bloco [ASSUNTO 2] substitua por um texto sobre privacidade em um mundo conectado narrando como se fosse apresentadora do canal 'Olhar Digital'<br>• no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Fabí Fleck e esse foi o podcast dessa semana'<br>• use termos de fácil explicação<br>• O podcast vai ser apresentado somente por uma pessoa, chamada Fabí<br>• O podcast deve ser curto<br>{REGRAS NEGATIVAS}<br>• Não use muitos termos técnicos<br>• Não ultrapasse 5 minutos de duração<br></td>
   </tr>
 </tbody></table>
+
+|  Ação  | Prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+|  Capa  | Gere uma imagem para ser usada em uma capa de podcast referente ao o texto acima (1:1). |    
+
+
 
